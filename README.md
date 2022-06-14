@@ -1,4 +1,4 @@
-# game-of-life-java
+# The Game of Life 
 
 The Game of Life (an example of a cellular automaton) is played on a two-dimensional rectangular grid of cells. Each cell can be either dead or alive. The status of each cell changes each turn of the game (also called generation) depending on the statuses of that cell's 8 neighbors – neighbors of a cell are cells that touch that cell, either horizontal, vertical, or diagonal from that cell.
 
